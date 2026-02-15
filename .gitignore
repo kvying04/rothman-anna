@@ -1,0 +1,15 @@
+*.tsv
+*.pyc
+*.DS_Store
+*.txt
+**/__*/
+*.fna
+*.gtf
+*.fastq
+*.sra
+*.bam
+*.tpm
+*.sra.*
+.sratk/*
+*.vcf
+*.tiff
