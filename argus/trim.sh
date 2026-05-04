@@ -1,9 +1,9 @@
 ROOT="/home/hanwenying"
 ARGUSDIR="$ROOT/rothman-anna/argus"
 DATADIR="$ROOT/rothman-data/argus"
-FASTQDIR="$DATADIR/raw-fastq"
+FASTQDIR="$DATADIR/bam-fastq"
 
-OUTDIR="$DATADIR/trimmed-fastq"
+OUTDIR="$DATADIR/trimmed-bam-fastq"
 
 # ILLUMINA_FASTQ="$FASTQDIR/illumina"
 # AVITI_FASTQ="$FASTQDIR/aviti"

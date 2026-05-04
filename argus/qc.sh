@@ -1,9 +1,9 @@
 ROOT="/home/hanwenying"
 ARGUSDIR="$ROOT/rothman-anna/argus"
 DATADIR="$ROOT/rothman-data/argus"
-TRIMMEDDIR="$DATADIR/trimmed-fastq"
+TRIMMEDDIR="$DATADIR/trimmed-bam-fastq"
 
-OUTDIR="$DATADIR/qc"
+OUTDIR="$DATADIR/bam-qc"
 
 SEQS=("illumina" "aviti")
 
